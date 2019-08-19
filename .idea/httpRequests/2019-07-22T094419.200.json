@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "VAKSLd",
+      "last_name": "asfdf",
+      "money": 10000
+    },
+    {
+      "id": 2,
+      "first_name": "askdosf",
+      "last_name": "AFdfalsdfa",
+      "money": -100
+    },
+    {
+      "id": 3,
+      "first_name": "Lakwkda",
+      "last_name": "askdosf",
+      "money": -100
+    },
+    {
+      "id": 4,
+      "first_name": "Kdaksnd",
+      "last_name": "askdosf",
+      "money": 110
+    },
+    {
+      "id": 5,
+      "first_name": "qwert",
+      "last_name": "asfdf",
+      "money": 1000
+    },
+    {
+      "id": 6,
+      "first_name": "pqweeq",
+      "last_name": "AFdfalsdfa",
+      "money": 999
+    },
+    {
+      "id": 7,
+      "first_name": "Lakwkda",
+      "last_name": "MAbnasd",
+      "money": 50
+    },
+    {
+      "id": 8,
+      "first_name": "Kdaksnd",
+      "last_name": "Mkajs",
+      "money": 110
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "first_name": "testPut",
+            "last_name": "testPut",
+            "money": 10001,
+            "password": "pddm@akscnfnA"
+        }
+]
+}

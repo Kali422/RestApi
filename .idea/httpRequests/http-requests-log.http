@@ -1,0 +1,26 @@
+GET http://localhost/Api/users/
+Accept: application/json
+
+<> 2019-07-22T094419.200.json
+
+###
+
+GET http://localhost/Api/users/
+Accept: application/json
+
+<> 2019-07-22T092802.200.json
+
+###
+
+GET http://localhost/Api/users/
+Accept: application/json
+
+<> 2019-07-22T092744.400.json
+
+###
+
+GET http://localhost/Api/users/?id=1
+Accept: application/json
+
+###
+

@@ -1,0 +1,17 @@
+{
+  "autoload": {
+    "classmap": [
+      "config",
+      "model",
+      "view",
+      "service",
+      "Tests"
+    ]
+  },
+  "require": {
+    "ext-sqlite3": "*",
+    "ext-json": "*",
+    "phpunit/phpunit": "^7",
+    "ext-http": "*"
+  }
+}
